@@ -2,8 +2,6 @@
 
 React-based CRM dashboard featuring comprehensive authentication, antd charts, sales management, and a fully operational kanban board with live updates for real-time actions across all devices.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
