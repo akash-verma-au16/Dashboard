@@ -14,24 +14,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Codegen
 - Vite
 
-## <a name="features">🔋 Features</a>
-
-👉 **Authentication**: Seamless onboarding with secure login and signup functionalities; robust password recovery ensures a smooth authentication experience.
-
-👉 **Authorization**: Granular access control regulates user actions, maintaining data security and user permissions.
-
-👉 **Home Page**: Dynamic home page showcases interactive charts for key metrics; real-time updates on activities, upcoming events, and a deals chart for business insights.
-
-👉 **Companies Page**: Complete CRUD for company management and sales processes; detailed profiles with add/edit functions, associated contacts/leads, pagination, and field-specific search.
-
-👉 **Kanban Board**: Collaborative board with real-time task updates; customization options include due dates, markdown descriptions, and multi-assignees, dynamically shifting tasks across dashboards.
-
-👉 **Account Settings**: Personalized user account settings for profile management; streamlined configuration options for a tailored application experience.
-
-👉 **Responsive**: Full responsiveness across devices for consistent user experience; fluid design adapts seamlessly to various screen sizes, ensuring accessibility.
-
-and many more, including code architecture and reusability 
-
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
@@ -47,8 +29,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/refine_dashboard.git
-cd refine_dashboard
+git clone git@github.com:akash-verma-au16/Dashboard.git
+cd dashboard
 ```
 
 **Installation**
